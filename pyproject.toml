@@ -1,0 +1,22 @@
+[project]
+name = "water-quality"
+version = "0.1.0"
+description = "AI project for water potability prediction"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=1.26.0",
+    "pandas>=2.3.0",
+    "scikit-learn>=1.7.0",
+    "matplotlib>=3.10.3",
+    "seaborn>=0.13.2",
+    "matplotlib>=3.10.3",
+    "jupyter>=1.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "black>=23.0.0",
+    "flake8>=6.0.0",
+]
