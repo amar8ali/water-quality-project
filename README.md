@@ -6,7 +6,7 @@ This project analyzes water potability data using machine learning to predict wa
 ## Team Information
 | AC.NO | Name           | Role           | Contributions                       |
 |-------|----------------|----------------|--------------------------------------|
-| 1     | Student Name 1 | Lead Developer | Data preprocessing, model development|
+| 1     |Amar Ali Muathar| Lead Developer | Data preprocessing, model development|
 | 2     | Student Name 2 | Data Analyst   | EDA, visualization                   |
 | 3     | Student Name 3 | ML Engineer    | Model optimization, deployment       |
 
@@ -18,7 +18,7 @@ This project analyzes water potability data using machine learning to predict wa
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/amar8ali/water-quality-project.git>
    cd water-quality
    ```
 2. Install dependencies using UV:
