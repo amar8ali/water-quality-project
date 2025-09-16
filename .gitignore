@@ -15,15 +15,6 @@ env/
 # Logs
 *.log
 
-# Data files
-*.csv
-*.tsv
-*.xlsx
-*.xls
-*.json
-*.parquet
-➕ !data/water_potability.csv
-
 # System files
 .DS_Store
 Thumbs.db
