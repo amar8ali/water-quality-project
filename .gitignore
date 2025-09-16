@@ -22,6 +22,7 @@ env/
 *.xls
 *.json
 *.parquet
+➕ !data/water_potability.csv
 
 # System files
 .DS_Store
@@ -30,6 +31,7 @@ Thumbs.db
 # IDE/editor settings
 .vscode/
 .idea/
+
 # OS / system files
 AppData/
 Thumbs.db
