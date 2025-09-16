@@ -4,11 +4,13 @@
 This project analyzes water potability data using machine learning to predict water safety. It includes data preprocessing, exploratory analysis, model development, and performance evaluation.
 
 ## Team Information
-| AC.NO | Name           | Role           | Contributions                       |
-|-------|----------------|----------------|--------------------------------------|
-| 1     |Amar Ali Muathar| Lead Developer | Data preprocessing, model development|
-| 2     | Student Name 2 | Data Analyst   | EDA, visualization                   |
-| 3     | Student Name 3 | ML Engineer    | Model optimization, deployment       |
+| NO | Name                    |      Academic Number       |
+|-------|----------------      |----------------------------|
+| 1     |Amar Ali Muathar      |          202174015         |
+| 2     |Hashem  Al-Moutawakel |          202174016         | 
+| 3     |Abdullah Ishaq        |          202174019         |
+| 4     |Osama Al-Ward         |          202174040         |
+| 4     |Ayman Altayrei        |          201873426         |
 
 ## Installation and Setup
 ### Prerequisites
@@ -108,10 +110,9 @@ weighted avg       0.39      0.63      0.48       656
 weighted avg       0.69      0.69      0.66       656
 ```
 
-## Contributing
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Make your changes
-4. Commit changes: `git commit -m 'Add feature'`
-5. Push to branch: `git push origin feature-name`
-6. Submit a pull request
+
+
+
+
+
+
